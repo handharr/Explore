@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Banana",
+        "label" : "Fruit"
+    },
+    {
+        "name" : "Pizza",
+        "label" : "Food"
+    },
+    {
+        "name" : "Water",
+        "label" : "Drink"
+    },
+    {
+        "name" : "Rice",
+        "label" : "Food"
+    },
+    {
+        "name" : "Apple",
+        "label" : "Fruit"
+    },
+    {
+        "name" : "Ramen",
+        "label" : "Food"
+    },
+]
