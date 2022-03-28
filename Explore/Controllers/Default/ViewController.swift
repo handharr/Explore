@@ -53,7 +53,7 @@ class ViewController: UIViewController {
     
     // MARK: - NETWORKING METHODS
     private func fetchData() {
-        DispatchQueue.main.asyncAfter(deadline: .now() + 5) { [weak self] in
+        DispatchQueue.main.asyncAfter(deadline: .now() + 2.5) { [weak self] in
             self?.headerView.setupUI(
                 title: "Oliver Sykes",
                 subtitle: "BMTH",
